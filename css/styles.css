@@ -1,0 +1,139 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3:hover {
+  color: #EAF6F6;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 20px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.home {
+  background-color: #E4F9F5;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.about {
+  background-color: #e9b0df;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.services {
+  background-color: #c6ebc9;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+}
+
+.service {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  overflow: auto;
+}
+
+.servico {
+  height: 30%;
+  width: 30%;
+  border-radius: 50%;
+}
+
+.bookservice {
+  background-color: #64dfdf;
+  overflow: auto;
+}
+
+.bottom {
+  background-color: #6FBFBF;
+  padding: 50px 0 20px;
+  margin: 0;
+  overflow: auto;
+}
+
+.realstate {
+  width: 15%;
+  float: left;
+}
+
+.repair {
+  width: 15%;
+  float: left;
+}
+
+.tourtravel {
+  width: 15%;
+  float: left;
+}
+
+.education {
+  width: 15%;
+  float: left;
+}
+
+.jobs {
+  width: 15%;
+  float: left;
+}
+
+.itservices {
+  width: 15%;
+  float: left;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 5px 0;
+}
